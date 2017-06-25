@@ -1,5 +1,6 @@
 This directory is for a project to model apartment rents based on the unit's proximity to MTA stations, Starbuck's, and Whole Foods. 
 
-Gathering the data for this project turned out to be a much more difficult task than expected, so the majority of the work so far was just data collection. In the next few weeks I expect to run this data through a linear model and provide visualizations. 
+Gathering the data for this project turned out to be a much more difficult task than expected, so the majority of the work so far was just 
+data collection. In the next few weeks I expect to run this data through a linear model and provide visualizations. 
 
 When that happens I'll post results and analysis. 
