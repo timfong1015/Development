@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/ec2-user/notebooks/Development/ConvNN/AWS_Models/recoded_cnn_estop.ckpt"
+all_model_checkpoint_paths: "/home/ec2-user/notebooks/Development/ConvNN/AWS_Models/recoded_cnn_estop.ckpt"
